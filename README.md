@@ -23,7 +23,7 @@ This project allows users to add, manage, and remove tasks in a clean and user-f
 ## 📸 Screenshot
 ![To-Do List Screenshot](https://raw.githubusercontent.com/pushpanjali1909/To-Do-list/main/Screenshot.png)
 
-*(Add your own screenshot.png in the repo root to show project preview)*
+ 
 
 ---
 
@@ -39,11 +39,11 @@ This project allows users to add, manage, and remove tasks in a clean and user-f
 
 ##👩‍💻 Technologies Used
 
-HTML5
+        HTML5
 
-CSS3
+        CSS3
 
-JavaScript (Vanilla JS)
+        JavaScript (Vanilla JS)
 
 
  
